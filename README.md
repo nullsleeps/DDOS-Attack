@@ -1,11 +1,12 @@
 THIS IS FOR EDUCATIONAL PERPOSES ONLY, IF YOU INDEND ON USING THIS FOR THE WRONG PURPOSE I WILL NOT BE RESPONSIBlE FOR YOUR ACTIONS, YOU WILL BE DOING SO AT YOUR OWN RISK.
 
 How To Run:
-`Run a local HTTP server`: Use Python’s built-in HTTP server for a quick setup:
+`Run a local HTTP server`:
+Use Python’s built-in HTTP server for a quick setup.
 ```bash
 python -m http.server 8080
 ```
-Monitor the Server: Check server logs or responses to observe the effects of the requests.
+`Monitor the Server`: Check server logs or responses to observe the effects of the requests.
 You can also add more logic to your server to simulate rate-limiting or throttling.
 
 Explanations:
